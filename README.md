@@ -1,8 +1,11 @@
 # diy-fogger-humidifier
 
-I needed a humidifer to maintain the humidity inside my indoor walk-in greenhouse. It was primarily being used as a mushroom fruiting chamber, which required a high relative humidity of 85%+. I found some cheap bedroom humidifer options on Amazon, but they were a bit limited with their tank capacities. Most of the affordable options ranged from 2-6 liters. Since my grow needed such a high humidity, the humidifier would be left on for long periods and require constant water tank refills.
+[photo]
 
-So I opted to build my own fogger humidifier. Key areas of focus for this build were a larger tank capacity (18 liters), affordabilty (~$50), and humidifing performance sufficient to mainting a good distribution of moisture content inside the greenhouse. For reference, this is the [indoor greenhouse](https://smile.amazon.com/gp/product/B00U9RGVWK/) I used.
+I needed a humidifer to maintain the humidity inside my indoor walk-in greenhouse. It was primarily being used as a mushroom fruiting chamber, which required a high relative humidity of over 85%. I found some cheap bedroom humidifer options on Amazon, but they were a bit limited with their tank capacities. Most of the affordable options ranged from 2-6 liters. Since my grow needed such a high humidity, the humidifier would need to be left on for long periods of time and require frequent water tank refills.
+
+So I opted to build my own fogger humidifier. Key areas of focus for this build were a larger tank capacity (18 liters), affordabilty (~$50), and humidifing performance sufficient to maintaining a good distribution of moisture content inside the greenhouse. For reference, this is the [indoor greenhouse](https://smile.amazon.com/gp/product/B00U9RGVWK/) I used.
+
 
 ## Parts List
 - [5 Gal Bucket](https://www.lowes.com/pd/United-Solutions-5-Gallon-General-Bucket/1000462835) - $4
@@ -14,11 +17,20 @@ So I opted to build my own fogger humidifier. Key areas of focus for this build 
 
 TOTAL COST: $49
 
+
+## Build Instructions
+This is a pretty simple build. The basic tools that you'll need are a small Phillips-head screwdriver, sharp knife, and packing tape.
+
+1. Cut holes.
+2. Mount fan.
+3. Thread cables. Test electronics.
+4. Close bucket lid.
+5. Tape and mount extension tubes.
+6. Power on.
+
+## Operation
 - Smart Plug
 - Humidity Sensor
 
-## Build Instructions
-
-## Operation
-
 ## Demo
+[video, gif]
