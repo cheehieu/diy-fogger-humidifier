@@ -1,6 +1,6 @@
 # diy-fogger-humidifier
 
-[photo]
+![assembled_full_view](https://user-images.githubusercontent.com/1174029/75936687-7ca3fe80-5e48-11ea-8f94-96d295f9af78.jpg)
 
 I needed a humidifer to maintain the humidity inside my indoor walk-in greenhouse. It was primarily being used as a mushroom fruiting chamber, which required a high relative humidity of over 85%. I found some cheap bedroom humidifer options on Amazon, but they were a bit limited with their tank capacities. Most of the affordable options ranged from 2-6 liters. Since my grow needed such a high humidity, the humidifier would need to be left on for long periods of time and require frequent water tank refills.
 
