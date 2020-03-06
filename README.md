@@ -22,6 +22,7 @@ TOTAL COST: $49
 This is a pretty simple build. The basic tools that you'll need are a small Phillips-head screwdriver, sharp knife, and packing tape.
 
 1. Cut holes.
+![lid_top_view](https://user-images.githubusercontent.com/1174029/76055065-34640980-5f38-11ea-9119-c768bdb1d2ab.jpg)
 2. Mount fan.
 3. Thread cables. Test electronics.
 4. Close bucket lid.
