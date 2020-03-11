@@ -24,10 +24,17 @@ This is a pretty simple build. The basic tools that you'll need are a small Phil
 1. Cut holes.
 ![lid_top_view](https://user-images.githubusercontent.com/1174029/76055065-34640980-5f38-11ea-9119-c768bdb1d2ab.jpg)
 2. Mount fan.
+
 3. Thread cables. Test electronics.
+![thread_cables](https://user-images.githubusercontent.com/1174029/76055067-34fca000-5f38-11ea-9247-3cd65d7d158a.jpg)
 4. Close bucket lid.
+
 5. Tape and mount extension tubes.
+![mount_extension](https://user-images.githubusercontent.com/1174029/76055078-3928bd80-5f38-11ea-9a4a-4c7d550892d6.jpg)
+![mount_tubes](https://user-images.githubusercontent.com/1174029/76055076-38902700-5f38-11ea-8154-6f1a1b2d65f6.jpg)
+
 6. Power on.
+
 
 ## Operation
 - Smart Plug
