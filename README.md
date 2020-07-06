@@ -42,3 +42,35 @@ This is a pretty simple build. The basic tools that you'll need are a small Phil
 
 ## Demo
 [video, gif]
+
+## Automation
+Arduino-controlled mini water pump.
+```
+/*
+  Mini Water Pump Control
+  Use a switch and relay to control a mini water pump's ON/OFF state.
+  https://smile.amazon.com/gp/product/B07TLRYGT1/
+  Connect relay to 5V (VCC, COM) and GND
+*/
+
+const int RELAY_PIN = 13;  // (also the LED_BUILTIN pin)
+const int SWITCH_PIN = 2;
+int switch_state = 0;
+
+void setup() {
+  pinMode(RELAY_PIN, OUTPUT);
+  pinMode(SWITCH_PIN, INPUT_PULLUP);
+}
+
+void loop() {
+  // Read the switch state
+  switch_state = digitalRead(SWITCH_PIN);
+
+  // Control active-low relay based on switch input
+  if (switch_state == HIGH) {
+    digitalWrite(RELAY_PIN, LOW); // pump ON
+  } else {
+    digitalWrite(RELAY_PIN, HIGH);  // pump OFF
+  }
+}
+```
